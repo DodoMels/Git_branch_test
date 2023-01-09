@@ -9,8 +9,10 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Strg+F8 to toggle the breakpoint.
     # branch 1 is herer
 
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# branch 2 is here
